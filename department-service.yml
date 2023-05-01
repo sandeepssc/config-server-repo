@@ -12,6 +12,8 @@ spring:
   hibernate:
    ddl-auto: update
   show-sql: true
+  boot:
+   message: Hello
 eureka:
  instance:
   client:
